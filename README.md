@@ -13,7 +13,7 @@ This datapack is inspired in one made by [Cloud Wolf](https://www.youtube.com/@C
 
 ## How to use
 
-I made a video in [my youtube channel](https://www.youtube.com/@elgeroingles) explaining how it works and how to add custom weapons, armor and mobs with custom stats.
+I made a video in [my youtube channel](https://www.youtube.com/@elgeroingles) explaining how it works and how to add custom menus with its pages.
 
 [![video](https://img.youtube.com/vi/gOJTLZfOORY/0.jpg)](https://youtu.be/gOJTLZfOORY)
 
