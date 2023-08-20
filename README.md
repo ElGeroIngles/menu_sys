@@ -29,7 +29,7 @@ A: Yes it does.
 
 #### Q: Can I modify the datapack and redistribute it?
 
-A: Yes you can, but only if you say who the original creator is ([me](https://github.com/ElGeroIngles)) and if you link the original [GitHub page](https://modrinth.com/datapack/gna) somewhere noticeable in the project.
+A: Yes you can, but only if you say who the original creator is ([me](https://github.com/ElGeroIngles)) and if you link the original [GitHub page](https://github.com/ElGeroIngles/menu_sys) somewhere noticeable in the project.
 
 #### Q: Are you going to make more datapacks?
 
